@@ -1,6 +1,6 @@
 # Image_Classification
 
-![image-20210521133914272](README.assets/image-20210521133914272.png)
+![image-20210521133914272](assets/image-20210521133914272.png)
 
 
 
